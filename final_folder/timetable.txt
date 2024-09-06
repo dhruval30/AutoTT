@@ -1,0 +1,851 @@
+Unknown Class 1:
+Unknown Class 2:
+CSE 2023 A (Tigers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: ---
+    12:10 to 1:10: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 102 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Computer Organization and Architecture LabProf. Ch Narasimha Reddy , Mr G PraveenRoom no: 102 (New Block)
+    3:15 to 4:15: Computer Organization and Architecture LabProf. Ch Narasimha Reddy , Mr G PraveenRoom no: 102 (New Block)
+    4:20 to 5:20: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 102 (New Block)
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Bases Management Systems LabProf. Amogh Deshmukh, Mrs A MeenaRoom no: 102 (New Block)
+    11:10 to 12:10: Data Bases Management Systems LabProf. Amogh Deshmukh, Mrs A MeenaRoom no: 102 (New Block)
+    12:10 to 1:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 102 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 102 (New Block)
+    3:15 to 4:15: ---
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 102 (New Block)
+    11:10 to 12:10: Data Bases Management SystemsProf. Amogh DeshmukhRoom no: 102 (New Block)
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 102 (New Block)
+    3:15 to 4:15: ---
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: Data Bases Management SystemsProf. Amogh DeshmukhRoom no: 102 (New Block)
+    12:10 to 1:10: Reflecting SelfProf. Dheeraj ThadiRoom no: 102 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Reflecting SelfProf. Dheeraj ThadiRoom no: 102 (New Block)
+    3:15 to 4:15: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 102 (New Block)
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+CSE 2023 B (Rhinos):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 103 (New Block)
+    11:10 to 12:10: ---
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 103 (New Block)
+    3:15 to 4:15: Reflecting SelfProf. Dheeraj ThadiRoom no: 103 (New Block)
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Computer Organization and Architecture LabProf. Ch Narasimha Reddy , Mr LalithyaRoom no: 103 (New Block)
+    11:10 to 12:10: Computer Organization and Architecture LabProf. Ch Narasimha Reddy , Mr LalithyaRoom no: 103 (New Block)
+    12:10 to 1:10: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 103 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Data Bases Management SystemsProf. Amogh DeshmukhRoom no: 103 (New Block)
+    3:15 to 4:15: ---
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 103 (New Block)
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Data Bases Management Systems LabProf. Amogh Deshmukh, Ms K ShreelaxmiRoom no: 103 (New Block)
+    3:15 to 4:15: Data Bases Management Systems LabProf. Amogh Deshmukh, Ms K ShreelaxmiRoom no: 103 (New Block)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Computer Organization and ArchitectureProf. Ch Narasimha ReddyRoom no: 103 (New Block)
+    11:10 to 12:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 103 (New Block)
+    12:10 to 1:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 103 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Data Bases Management SystemsProf. Amogh DeshmukhRoom no: 103 (New Block)
+    3:15 to 4:15: ---
+    4:20 to 5:20: Reflecting SelfProf. Dheeraj ThadiRoom no: 103 (New Block)
+    5:20 to 6:20: -x-
+
+CSE 2023 C, BIC 2023 (Panthers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Bases Management SystemsProf. Sandeep DRoom no: 218
+    11:10 to 12:10: Data Bases Management SystemsProf. Sandeep DRoom no: 218
+    12:10 to 1:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 218
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Reflecting SelfProf. Dheeraj ThadiRoom no: 218
+    3:15 to 4:15: Design & Analysis of AlgorithmsProf. Muralidhara RaoRoom no: 218
+    4:20 to 5:20: Design & Analysis of AlgorithmsProf. Muralidhara RaoRoom no: 218
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Design & Analysis of AlgorithmsProf. Muralidhara Rao, Mr K SandeepRoom no: 218
+    11:10 to 12:10: Design & Analysis of AlgorithmsProf. Muralidhara Rao, Mr K SandeepRoom no: 218
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Design & Analysis of AlgorithmsProf. Muralidhara RaoRoom no: 218
+    3:15 to 4:15: Computer Organization and ArchitectureProf. Meher GayatriRoom no: 218
+    4:20 to 5:20: Reflecting SelfProf. Dheeraj ThadiRoom no: 218
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 218
+    11:10 to 12:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 218
+    12:10 to 1:10: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 218
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Data Bases Management Systems LabProf. Sandeep D, Mrs Ch KusumaRoom no: 218
+    3:15 to 4:15: Data Bases Management Systems LabProf. Sandeep D, Mrs Ch KusumaRoom no: 218
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Computer Organization and ArchitectureProf. Meher GayatriRoom no: 218
+    11:10 to 12:10: ---
+    12:10 to 1:10: Computer Organization and ArchitectureProf. Meher GayatriRoom no: 218
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Computer Organization and Architecture LabProf. Meher Gayatri, Mrs Ch KusumaRoom no: 218
+    4:20 to 5:20: Computer Organization and Architecture LabProf. Meher Gayatri, Mrs Ch KusumaRoom no: 218
+    5:20 to 6:20: -x-
+
+AIML 2023 A (Tigers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 013
+    11:10 to 12:10: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 013
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 013
+    3:15 to 4:15: Data Bases Management Systems LabProf. Sandeep D, Mr K SandeepRoom no: 013
+    4:20 to 5:20: Data Bases Management Systems LabProf. Sandeep D, Mr K SandeepRoom no: 013
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 013
+    11:10 to 12:10: Reflecting SelfDr. Suantak GeorgeRoom no: 013
+    12:10 to 1:10: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 013
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 013
+    4:20 to 5:20: Data Bases Management SystemsProf. Sandeep DRoom no: 013
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: Artificial and Computational Intelligence LabDr. Md. Asif, Mr Syed VarishRoom no: 013
+    12:10 to 1:10: Artificial and Computational Intelligence LabDr. Md. Asif, Mr Syed VarishRoom no: 013
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Reflecting SelfDr. Suantak GeorgeRoom no: 013
+    3:15 to 4:15: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 013
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Bases Management SystemsProf. Sandeep DRoom no: 013
+    11:10 to 12:10: Design & Analysis of Algorithms LabProf. S R Mallick, Mr G PraveenRoom no: 013
+    12:10 to 1:10: Design & Analysis of Algorithms LabProf. S R Mallick, Mr G PraveenRoom no: 013
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 013
+    3:15 to 4:15: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 013
+    4:20 to 5:20: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 013
+    5:20 to 6:20: -x-
+
+AIML 2023 B (Rhinoceros):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 219
+    12:10 to 1:10: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 219
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Artificial and Computational Intelligence LabDr. Md. Asif, Mr ALIRoom no: 219
+    3:15 to 4:15: Artificial and Computational Intelligence LabDr. Md. Asif, Mr ALIRoom no: 219
+    4:20 to 5:20: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 219
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Bases Management SystemsProf. Sandeep DRoom no: 219
+    11:10 to 12:10: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 219
+    12:10 to 1:10: Data Bases Management SystemsProf. Sandeep DRoom no: 219
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 219
+    3:15 to 4:15: Reflecting SelfDr. Suantak GeorgeRoom no: 219
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Design & Analysis of AlgorithmsProf. S R MallickRoom no: 219
+    11:10 to 12:10: Data Bases Management Systems LabProf. Sandeep D, Mr R GopinadhRoom no: 219
+    12:10 to 1:10: Data Bases Management Systems LabProf. Sandeep D, Mr R GopinadhRoom no: 219
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 219
+    3:15 to 4:15: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 219
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 219
+    11:10 to 12:10: Artificial and Computational IntelligenceDr. Md. AsifRoom no: 219
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Design & Analysis of Algorithms LabProf. S R Mallick, Mr ALIRoom no: 219
+    3:15 to 4:15: Design & Analysis of Algorithms LabProf. S R Mallick, Mr ALIRoom no: 219
+    4:20 to 5:20: Reflecting SelfDr. Suantak GeorgeRoom no: 219
+    5:20 to 6:20: -x-
+
+AIML 2023 C (Panthers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Bases Management Systems LabDr. Ravi Gorripati, Mr K NaveenRoom no: 015
+    11:10 to 12:10: Data Bases Management Systems LabDr. Ravi Gorripati, Mr K NaveenRoom no: 015
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 015
+    3:15 to 4:15: Data Bases Management SystemsDr. Ravi GorripatiRoom no: 015
+    4:20 to 5:20: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 015
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 015
+    11:10 to 12:10: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 015
+    12:10 to 1:10: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 015
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Reflecting SelfDr. Suantak GeorgeRoom no: 015
+    3:15 to 4:15: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 015
+    4:20 to 5:20: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 015
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Artificial and Computational Intelligence LabDr. Srinivasa Rao, Mr K NaveenRoom no: 015
+    11:10 to 12:10: Artificial and Computational Intelligence LabDr. Srinivasa Rao, Mr K NaveenRoom no: 015
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 015
+    3:15 to 4:15: ---
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Design & Analysis of Algorithms LabDr. Gopal Krishna Patro, Mr P ApparaoRoom no: 015
+    11:10 to 12:10: Design & Analysis of Algorithms LabDr. Gopal Krishna Patro, Mr P ApparaoRoom no: 015
+    12:10 to 1:10: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 015
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 015
+    3:15 to 4:15: Reflecting SelfDr. Suantak GeorgeRoom no: 015
+    4:20 to 5:20: ---
+    5:20 to 6:20: -x-
+
+DS 2023 (Tigers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Artificial and Computational Intelligence LabDr. Srinivasa Rao, Ms K ShreelaxmiRoom no: 107 (New Block)
+    11:10 to 12:10: Artificial and Computational Intelligence LabDr. Srinivasa Rao, Ms K ShreelaxmiRoom no: 107 (New Block)
+    12:10 to 1:10: Reflecting SelfDr. Suantak GeorgeRoom no: 107 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Reflecting SelfDr. Suantak GeorgeRoom no: 107 (New Block)
+    3:15 to 4:15: Design & Analysis of Algorithms LabDr. Gopal Krishna Patro, Mr LalithyaRoom no: 107 (New Block)
+    4:20 to 5:20: Design & Analysis of Algorithms LabDr. Gopal Krishna Patro, Mr LalithyaRoom no: 107 (New Block)
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 107 (New Block)
+    11:10 to 12:10: Data Bases Management Systems LabDr. Ravi Gorripati, Mr Syed VarishRoom no: 107 (New Block)
+    12:10 to 1:10: Data Bases Management Systems LabDr. Ravi Gorripati, Mr Syed VarishRoom no: 107 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Data Bases Management SystemsDr. Ravi GorripatiRoom no: 107 (New Block)
+    4:20 to 5:20: Advanced Communication skills & Logical ThinkingMr. Avinash PatroRoom no: 107 (New Block)
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Advanced Communication skills & Logical ThinkingMr. Naveen KumarRoom no: 107 (New Block)
+    11:10 to 12:10: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 107 (New Block)
+    12:10 to 1:10: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 107 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 107 (New Block)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: Artificial and Computational IntelligenceDr. Srinivasa RaoRoom no: 107 (New Block)
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Ethics & Moral Reasoning in a VUCA WorldProf. Sasi Kumar VKRoom no: 107 (New Block)
+    3:15 to 4:15: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 107 (New Block)
+    4:20 to 5:20: Design & Analysis of AlgorithmsDr. Gopal Krishna PatroRoom no: 107 (New Block)
+    5:20 to 6:20: -x-
+
+CSE 2022 A (Tigers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: VirtualizationDr. Anand KakarlaRoom no: 106 (New Block)
+    11:10 to 12:10: ---
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Theory of AutomataDr. Venkat Reddy PRoom no: 106 (New Block)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Behavioural & quantitative TransactionsMr. Naveen KumarRoom no: 106 (New Block)
+    11:10 to 12:10: Cloud ComputingProf. Vaishali ThakurRoom no: 106 (New Block)
+    12:10 to 1:10: Cloud ComputingProf. Vaishali ThakurRoom no: 106 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Theory of AutomataDr. Venkat Reddy PRoom no: 106 (New Block)
+    3:15 to 4:15: ---
+    4:20 to 5:20: Behavioural & quantitative TransactionsMr. Avinash PatroRoom no: 106 (New Block)
+    5:20 to 6:20: -x-
+
+CSE 2022 B (Rhinos):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Cloud ComputingProf. Vaishali ThakurRoom no: 104 (New Block)
+    11:10 to 12:10: Cloud ComputingProf. Vaishali ThakurRoom no: 104 (New Block)
+    12:10 to 1:10: Theory of AutomataDr. Venkat Reddy PRoom no: 104 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Cloud Computing LabProf. Vaishali Thakur, Ms Ashima SoodRoom no: 104 (New Block)
+    3:15 to 4:15: Cloud Computing LabProf. Vaishali Thakur, Ms Ashima SoodRoom no: 104 (New Block)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Theory of Automata LabDr. Venkat Reddy P, Ms NavithaRoom no: 104 (New Block)
+    11:10 to 12:10: Theory of Automata LabDr. Venkat Reddy P, Ms NavithaRoom no: 104 (New Block)
+    12:10 to 1:10: Responsible leadershipDr. Dibyagana BiswasRoom no: 104 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: VirtualizationDr. Anand KakarlaRoom no: 104 (New Block)
+    3:15 to 4:15: Cloud ComputingProf. Vaishali ThakurRoom no: 104 (New Block)
+    4:20 to 5:20: Behavioural & quantitative TransactionsMr. Naveen KumarRoom no: 104 (New Block)
+    5:20 to 6:20: -x-
+
+BIC 2022 (Tigers):
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: IOT Architecture,Protocols and its applicationsDr. Reddy Sekhar KRoom no: 014
+    11:10 to 12:10: BIC 2022 (Tigers), Mechatronics 2022Behavioural & quantitative TransactionsMr. Avinash PatroRoom no: 014
+    12:10 to 1:10: IOT Architecture,Protocols and its applicationsDr. Reddy Sekhar KRoom no: 014
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: Network Defense for CybersecurityProf. Muralidhara RaoRoom no: 014
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: IOT Architecture,Protocols and its applicationsDr. Reddy Sekhar KRoom no: 014
+    11:10 to 12:10: BIC 2022 (Tigers), Mechatronics 2022Responsible leadershipDr. Dibyagana BiswasRoom no: 014
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: BIC 2022 (Tigers), Mechatronics 2022Responsible leadershipDr. Dibyagana BiswasRoom no: 014
+    3:15 to 4:15: BIC 2022 (Tigers), Mechatronics 2022Behavioural & quantitative TransactionsMr. Naveen KumarRoom no: 014
+    4:20 to 5:20: Malware AnalysisProf. Vaishali ThakurRoom no: 014
+    5:20 to 6:20: -x-
+
+AIML 2022 A (Panthers), DS Tigers A:
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Responsible leadershipDr. Dibyagana BiswasRoom no:: 220
+    11:10 to 12:10: Data MiningProf. Ramanjaneyulu YannamRoom no:: 220
+    12:10 to 1:10: Responsible leadershipDr. Dibyagana BiswasRoom no:: 220
+    1:10 to 2:10: -x-
+    2:15 to 3:15: Machine LearningDr. Sai Charan ARoom no:: 220
+    3:15 to 4:15: DS Tigers A, DS Tigers BData Engineering and ModelingDr. Ayushi AryaRoom no:: 220
+    4:20 to 5:20: DS Tigers A, DS Tigers B
+    5:20 to 6:20: Data Engineering and Modeling
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: AIML 2022 A (panthers)Software EngineeringDr. Purushotham MRoom no:: 220
+    11:10 to 12:10: AIML 2022 A (panthers)
+    12:10 to 1:10: Software Engineering
+    1:10 to 2:10: Dr. Purushotham M
+    2:15 to 3:15: Room no:: 220
+    3:15 to 4:15: Behavioural & quantitative TransactionsMr. Naveen KumarRoom no:: 220
+    4:20 to 5:20: Text AnalyticsProf. Rajan Kumar PanditRoom no:: 220
+    5:20 to 6:20: -x-
+
+Unknown Class 14:
+Unknown Class 15:
+Unknown Class 16:
+Unknown Class 17:
+AIML 2022 B (Leopards)  DS Tigers B:
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Text AnalyticsProf. Rajan Kumar PanditRoom no: 221
+    11:10 to 12:10: AIML 2022 B (Leopards)Software EngineeringDr. Purushotham MRoom no: 221
+    12:10 to 1:10: AIML 2022 B (Leopards)
+    1:10 to 2:10: Software Engineering
+    2:15 to 3:15: Dr. Purushotham M
+    3:15 to 4:15: Room no: 221
+    4:20 to 5:20: Machine LearningDr. Sai Charan ARoom no: 221
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Data Mining LabProf. Ramanjaneyulu Yannam, Mr Ravi KumarRoom no: 221
+    11:10 to 12:10: Data Mining LabProf. Ramanjaneyulu Yannam, Mr Ravi KumarRoom no: 221
+    12:10 to 1:10: AIML 2022 B (Leopards)Software EngineeringDr. Purushotham MRoom no: 221
+    1:10 to 2:10: AIML 2022 B (Leopards)
+    2:15 to 3:15: Software Engineering
+    3:15 to 4:15: Dr. Purushotham M
+    4:20 to 5:20: Room no: 221
+    5:20 to 6:20: -x-
+
+Unknown Class 19:
+Unknown Class 20:
+Unknown Class 21:
+Unknown Class 22:
+Unknown Class 23:
+Mechatronics 2022:
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    11:10 to 12:10: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    3:15 to 4:15: B.tech 2022-2026Applicative Project (Project Evalution -1) Room no: 106,104,220,221,014)
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: BIC 2022 (Tigers), Mechatronics 2022Behavioural & quantitative TransactionsMr. Avinash PatroRoom no: 014
+    12:10 to 1:10: ---
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: ---
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: Fundamentals of AIDr. Jaswanth NRoom : Robotics lab
+    11:10 to 12:10: BIC 2022 (Tigers), Mechatronics 2022Responsible leadershipDr. Dibyagana BiswasRoom no: 014
+    12:10 to 1:10: Applied hydraulics and PneumaticsDr. Bharagav PrajwalRoom : Robotics lab
+    1:10 to 2:10: -x-
+    2:15 to 3:15: BIC 2022 (Tigers), Mechatronics 2022Responsible leadershipDr. Dibyagana BiswasRoom no: 014
+    3:15 to 4:15: BIC 2022 (Tigers), Mechatronics 2022Behavioural & quantitative TransactionsMr. Naveen KumarRoom no: 014
+    4:20 to 5:20: Fundamentals of AIDr. Jaswanth NRoom : Robotics lab
+    5:20 to 6:20: -x-
+
+CSE 2021:
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Computer VisionDr. Jaswanth NRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Computer VisionDr. Jaswanth NRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    11:10 to 12:10: DSAI 2021, CSE 2021Existential Dialogues In The Age of Leadership by AlgorithmProf Manoj N YRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+DSAI 2021:
+  Monday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: -x-
+    11:10 to 12:10: -x-
+    12:10 to 1:10: -x-
+    1:10 to 2:10: -x-
+    2:15 to 3:15: -x-
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Tuesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Computer VisionDr. Jaswanth NRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Wednesday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Career Readiness for Modern WorkspaceMr. Naveen KumarRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Thursday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: ---
+    11:10 to 12:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: CSE 2021, DSAI 2021Computer VisionDr. Jaswanth NRoom no: 105 (New Block)
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
+  Friday:
+    9:00 to 10:00: -x-
+    10:00 to 11:00: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    11:10 to 12:10: DSAI 2021, CSE 2021Existential Dialogues In The Age of Leadership by AlgorithmProf Manoj N YRoom no: 105 (New Block)
+    12:10 to 1:10: CSE 2021, DSAI 2021Information and Cyber SecurityProf. Gopi Krishna RRoom no: 105 (New Block)
+    1:10 to 2:10: -x-
+    2:15 to 3:15: ---
+    3:15 to 4:15: -x-
+    4:20 to 5:20: -x-
+    5:20 to 6:20: -x-
+
